@@ -45,7 +45,7 @@
           ]"
           :class="`Color ${color}-${value}`"
           :style="`
-            color: ${value >= 30 ? 'white' : 'black' };
+            color: ${value >= 40 ? 'white' : 'black' };
           `"
         >{{value}}</td>
       </tr>
