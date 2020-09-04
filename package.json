@@ -16,7 +16,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.3.0",
     "@vue/cli-service": "^3.3.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.18.9",
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.5.21"
